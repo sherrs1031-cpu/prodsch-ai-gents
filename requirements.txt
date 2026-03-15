@@ -1,0 +1,5 @@
+langflow
+openai
+python-dotenv
+pypdf
+tiktoken
